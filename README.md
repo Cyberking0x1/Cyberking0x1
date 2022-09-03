@@ -32,7 +32,7 @@ Wasim</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Cyberking0x1">
 	   
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/wasimpatel806">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			<img src="https://img.icons8.com/ios-glyphs/344/instagram-new.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Cyber_Kingpin_">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
