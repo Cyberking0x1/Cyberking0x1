@@ -4,7 +4,7 @@ Wasim</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimpatel&label=Profile%20views&color=0e75b6&style=flat" alt="wasimpatel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Cyberking0x1" target="blank"><img src="https://img.shields.io/twitter/follow/Cyberking0x1?logo=twitter&style=for-the-badge" alt="wasimpatel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Cyber_Kingpin_" target="blank"><img src="https://img.shields.io/twitter/follow/Cyber_Kingpin_?logo=twitter&style=for-the-badge" alt="wasimpatel" /></a> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -33,7 +33,7 @@ Wasim</a></h1>
 	   
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/wasimpatel806">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Cyberking0x1">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Cyber_Kingpin_">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
 
