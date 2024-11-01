@@ -4,16 +4,23 @@
 
 ### 💻 About Me
 
-I’m an enthusiastic tech explorer and passionate learner. Starting my journey from SSC, I pursued a 3-year diploma in Computer Engineering, and I'm currently a 3rd-year B.Tech student specializing in Information Technology. With a solid foundation in **cybersecurity** and hands-on experience in **AI/ML**, I’m always excited to dive into emerging technologies.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/animated.gif" alt="Animated Text" width="80%">
+</div>
+
+<p align="center">
+  I'm Wasim, a tech enthusiast with a journey from SSC to a Diploma in Computer Engineering, and currently in my 3rd year of B.Tech in Information Technology. My passion lies in **cybersecurity** and **AI/ML**, with hands-on experience in **IoT** and **hardware**.
+</p>
+
+---
 
 ### 🌐 Skills and Expertise
 
-- **Cybersecurity**: 4 years of experience in web security, CTF challenges, HackTheBox, TryHackMe, and freelancing with platforms like Bugcrowd, HackerOne, and OpenBugBounty.
-- **Web Development**: Developed multiple web applications focusing on security, user experience, and seamless integration.
-- **IoT and Hardware Knowledge**: Familiar with Internet of Things (IoT) and various hardware components.
-- **AI/ML**: Currently exploring advanced techniques to enhance cybersecurity and other domains.
-- **Flutter Development**: Completed a 3-month on-site internship as a Flutter developer at Branding Catalyst Pvt Ltd.
-
+- **Cybersecurity**: 4 years in web security, CTF, HackTheBox, TryHackMe, and freelancing with Bugcrowd, HackerOne, and OpenBugBounty.
+- **Web Development**: Developed projects with robust security and real-world integrations.
+- **IoT & Hardware**: Knowledgeable in IoT systems and hardware integrations.
+- **Flutter Development**: Completed a 3-month internship at Branding Catalyst Pvt Ltd as a Flutter developer.
+  
 ---
 
 ### 🔧 Tech Stack
@@ -30,39 +37,39 @@ I’m an enthusiastic tech explorer and passionate learner. Starting my journey 
 
 ### 🚀 Experience Highlights
 
-- **Cybersecurity Analyst** - Freelanced with Bugcrowd, HackerOne, and OpenBugBounty, handling web security issues and resolving high-risk vulnerabilities.
-- **Project Development** - Delivered robust solutions for real-world problems, including a **payment system integration** for Aldel Institute of Management.
-- **Internship** - Worked as a Flutter Developer at Branding Catalyst Pvt Ltd, focusing on **UI/UX** and **cross-platform development**.
+- **Cybersecurity Analyst** - Freelanced with Bugcrowd, HackerOne, and OpenBugBounty, resolving critical vulnerabilities.
+- **Project Development** - Integrated **CCavenue payment system** for [Aldel Institute of Management](https://aimedu.org.in/) website, ensuring secure and seamless transactions.
+- **Internship** - Flutter Developer at Branding Catalyst Pvt Ltd, with a focus on **cross-platform UI/UX**.
 
 ---
 
 ### 🏆 Projects
 
-- **CyberSec Lab** - Developed a lab for **web security vulnerabilities** and penetration testing. Includes hands-on examples for SQL Injection, XSS, and CSRF.
-- **Smart Payment System** - Designed a payment system with seamless integration for academic institutions.
-- **IoT Home Security** - Built an IoT-based security system with real-time monitoring and alerts.
+- **CyberSec Lab** - Developed a lab showcasing web security vulnerabilities such as SQL Injection, XSS, and CSRF.
+- **Smart Payment Integration** - Successfully integrated CCavenue for seamless transactions at Aldel Institute of Management.
+- **IoT Home Security** - Real-time monitoring and alert system.
 
 ---
 
 ### 🌱 Currently Learning
 
-- **Advanced Cybersecurity Tools**: Penetration testing, exploit development, and reverse engineering.
-- **AI/ML for Cybersecurity**: Applying machine learning techniques to identify and mitigate security threats.
+- **Advanced Cybersecurity Tools**: Deep-diving into penetration testing and reverse engineering.
+- **AI/ML for Cybersecurity**: Exploring machine learning techniques to enhance security protocols.
 
 ---
 
 ### 📫 Let's Connect!
 
-- **LinkedIn**: [Wasim Patel](https://www.linkedin.com/in/wasimpatel)
-- **GitHub**: [@wasimpatel](https://github.com/wasimpatel)
-- **Email**: wasim.patel@example.com
+- **GitHub**: [Cyberking0x1](https://github.com/Cyberking0x1)
+- **X (Twitter)**: [@Cyber_Kingpin_](https://x.com/Cyber_Kingpin_)
+- **Email**: wasimp668@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
-![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasimpatel&show_icons=true&theme=radical)
+![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberking0x1&show_icons=true&theme=radical)
 
 ---
 
-Thank you for visiting! 😊 Let's make technology safer and smarter together!
+Thank you for visiting! 😊 Let’s make tech safer and smarter together!
