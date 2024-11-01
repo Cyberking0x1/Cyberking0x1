@@ -1,41 +1,68 @@
-### Hi there 👋
+# 👋 Hi, I'm Wasim Patel
 
-## I am **Wasim Patel**, a **Software Developer**, **Cybersecurity Enthusiast**, and **Open-Source Contributor**.
+---
 
-- 🧑‍💻 Software Developer at **Ishitva Robotics Systems**, Ahmedabad
-- 🔐 5+ years of experience in **Cybersecurity**, including ethical hacking and exploring bug bounties
-- 🌐 Actively contributing to open-source projects, primarily in **C/C++**, **Python**, and **Java**
-- 🎥 Currently working on the course [Programming Fundamentals](https://www.youtube.com/watch?v=DMx0mr8WFac&list=PLK59HDBUP-dsCDsg3bGapEbcYl7_GcOst) for our YouTube channel [The Coding Jungle](https://www.youtube.com/channel/UCyGdc3m67Ouj8dn5MkaACPw/)
+### 💻 About Me
 
-### Languages:
+I’m an enthusiastic tech explorer and passionate learner. Starting my journey from SSC, I pursued a 3-year diploma in Computer Engineering, and I'm currently a 3rd-year B.Tech student specializing in Information Technology. With a solid foundation in **cybersecurity** and hands-on experience in **AI/ML**, I’m always excited to dive into emerging technologies.
 
-[<img align="left" alt="C++" height="35em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="C" height="35em" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="Python" height="35em" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img align="left" alt="Java" height="35em" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" />](https://www.java.com/en/download/)
+### 🌐 Skills and Expertise
 
-<br/><br/>
+- **Cybersecurity**: 4 years of experience in web security, CTF challenges, HackTheBox, TryHackMe, and freelancing with platforms like Bugcrowd, HackerOne, and OpenBugBounty.
+- **Web Development**: Developed multiple web applications focusing on security, user experience, and seamless integration.
+- **IoT and Hardware Knowledge**: Familiar with Internet of Things (IoT) and various hardware components.
+- **AI/ML**: Currently exploring advanced techniques to enhance cybersecurity and other domains.
+- **Flutter Development**: Completed a 3-month on-site internship as a Flutter developer at Branding Catalyst Pvt Ltd.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasimPatel&theme=dark" alt="WasimPatel" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WasimPatel&count_private=true&theme=dark" alt="WasimPatel" /> 
+---
 
-<br/><br/><br/>
+### 🔧 Tech Stack
 
-### Tools: 
+| Category               | Tools                                        |
+|------------------------|----------------------------------------------|
+| **Programming**        | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Cybersecurity**      | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5733?style=flat-square) ![Nmap](https://img.shields.io/badge/Nmap-009639?style=flat-square) ![Metasploit](https://img.shields.io/badge/Metasploit-4A00FF?style=flat-square) |
+| **Web Development**    | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frameworks & Libs**  | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
+| **Tools**              | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-[<img align="left" alt="Visual Studio Code" height="35em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" height="35em" src="https://git-scm.com/images/logo@2x.png" />](https://git-scm.com/downloads)
-[<img align="left" alt="Terminal" height="35em" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
-[<img align="left" alt="Arduino" height="35em" src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" />](https://www.arduino.cc/)
-[<img align="left" alt="Burp Suite" height="35em" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Burp_suite_logo.png" />](https://portswigger.net/burp)
+---
 
-<br/><br/>
+### 🚀 Experience Highlights
 
-### Connect with me:
+- **Cybersecurity Analyst** - Freelanced with Bugcrowd, HackerOne, and OpenBugBounty, handling web security issues and resolving high-risk vulnerabilities.
+- **Project Development** - Delivered robust solutions for real-world problems, including a **payment system integration** for Aldel Institute of Management.
+- **Internship** - Worked as a Flutter Developer at Branding Catalyst Pvt Ltd, focusing on **UI/UX** and **cross-platform development**.
 
-[<img align="left" alt="Wasim Patel | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/wasim-patel)
-[<img align="left" alt="Wasim Patel | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />](https://www.instagram.com/wasim_patel)
-[<img align="left" alt="Wasim Patel | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />](https://twitter.com/wasimpatel)
-<a href="https://www.codechef.com/users/wasimpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="wasimpatel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wasimpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="wasimpatel" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/wasimpatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="wasimpatel" height="30" width="40" /></a>
+---
 
+### 🏆 Projects
+
+- **CyberSec Lab** - Developed a lab for **web security vulnerabilities** and penetration testing. Includes hands-on examples for SQL Injection, XSS, and CSRF.
+- **Smart Payment System** - Designed a payment system with seamless integration for academic institutions.
+- **IoT Home Security** - Built an IoT-based security system with real-time monitoring and alerts.
+
+---
+
+### 🌱 Currently Learning
+
+- **Advanced Cybersecurity Tools**: Penetration testing, exploit development, and reverse engineering.
+- **AI/ML for Cybersecurity**: Applying machine learning techniques to identify and mitigate security threats.
+
+---
+
+### 📫 Let's Connect!
+
+- **LinkedIn**: [Wasim Patel](https://www.linkedin.com/in/wasimpatel)
+- **GitHub**: [@wasimpatel](https://github.com/wasimpatel)
+- **Email**: wasim.patel@example.com
+
+---
+
+### 📊 GitHub Stats
+
+![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasimpatel&show_icons=true&theme=radical)
+
+---
+
+Thank you for visiting! 😊 Let's make technology safer and smarter together!
